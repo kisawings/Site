@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+			<meta charset="uts-8">
+			<meta name="description" content="Première page web faite par HEDI TANDERT.">
+			<title>Mama's Cooking</title>
+			<style></style>
+			<link rel="stylesheet" type="text/css" href="CSS/Style.CSS">
+			
+
+		
+	</head>
+	
+	<body>
+			<header>
+					<a href="Index.html"><img src="Images\SnoopDog.png" target="_blank" height="80"></a>
+				<nav>
+					<ul>
+						<li><a href="A propos.html">A propos</a></li>
+						<li><a href="Contact.html" target="_blank" title="Appuyez pour ouvrir dans un nouvel onglet">Contact</a></li>
+						
+				</nav>
+			</header>
+
+
+			<main>
+				<h1 class="titre-page"> Accueil</h1>
+				<h2> Bienvenue !!</h2> 
+
+					<img src="Images\Lorenzo.jpeg" alt="Un petit mec cool"  width="200">
+					<p id="paragraphe1">
+						Et de un Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					
+					<p id="paragraphe2">
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			</main>
+
+
+			<footer>
+				<p class="titre-page"> © HEDI TANDERT </p>
+
+
+			</footer>
+
+	</body>
+</html>
